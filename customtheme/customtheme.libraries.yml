@@ -1,0 +1,20 @@
+style:
+  css:
+    theme:
+      style.css: {}
+      animate.css: {}
+      animate.min.css: {}
+      bootstrap.min.css: {}
+      bootstrap-dropdownhover.min.css: {}
+      ekko=lightbox.min.css: {}
+      icons.css: {}
+      ionicons.min(1).css: {}
+      ionicons.min.css: {}
+      kingcomposer.min.css: {}
+      main.css: {}
+      sequence-theme.basic.min.css: {}
+      style.css: {}
+      style.min.css: {}
+      woocommerce.css: {}
+      woocommerce-layout.css: {}
+      woocommerce-smallscreen.css: {}

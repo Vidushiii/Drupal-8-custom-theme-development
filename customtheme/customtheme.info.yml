@@ -1,0 +1,27 @@
+name: Custom Theme
+type: theme
+description: This is a Custom theme.
+package: Custom
+core: 8.x
+base theme: classy  
+libraries:
+  - customtheme/animate
+  - customtheme/animate.min
+  - customtheme/bootstrap.min
+  - customtheme/bootstrap-dropdownhover.min
+  - customtheme/ekko=lightbox.min
+  - customtheme/icons
+  - customtheme/ionicons.min(1)
+  - customtheme/ionicons.min
+  - customtheme/kingcomposer.min
+  - customtheme/main
+  - customtheme/sequence-theme.basic.min
+  - customtheme/style
+  - customtheme/style.min
+  - customtheme/woocommerce
+  - customtheme/woocommerce-layout
+  - customtheme/woocommerce-smallscreen
+regions:
+  header: Header
+  content: Content
+  
